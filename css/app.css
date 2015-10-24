@@ -1,0 +1,19 @@
+.holder{
+    max-width: 400px;
+    margin: 0 auto;
+    height: 600px;
+    overflow: scroll;
+}
+
+img{
+    height: 100%;
+    margin: 0 auto;
+}
+
+main{
+    margin: 0 auto;
+}
+.content{
+    height: 200px;
+    bottom: 0;
+}

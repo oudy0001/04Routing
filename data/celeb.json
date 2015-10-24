@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "full_name": "Tobey Maguire",
+    "age": 40,
+    "gender": "male",
+    "net_worth": 75000000,
+    "image": "img/tobey_maguire.jpg"
+  },{
+      "id": 2,
+      "full_name": "Julianne Hough",
+      "age": 27,
+      "gender": "female",
+      "net_worth": 7000000,
+      "image": "img/julianne_hough.jpg"
+  },{
+      "id": 3,
+      "full_name": "Kevin Garnett",
+      "age": 39,
+      "gender": "male",
+      "net_worth": 190000000,
+      "image": "img/kevin_garnett.jpg"
+  },{
+      "id": 4,
+      "full_name": "Natalya Rudakova",
+      "age": 30,
+      "gender": "female",
+      "net_worth": 7000000,
+      "image": "img/natalya_rudakova.jpg"
+  },{
+      "id": 5,
+      "full_name": "Jackie Chan",
+      "age": 61,
+      "gender": "male",
+      "net_worth": 230000000,
+      "image": "img/jackie_chan.jpg"
+  },{
+      "id": 6,
+      "full_name": "Tom Hiddleston",
+      "age": 34,
+      "gender": "male",
+      "net_worth": 8000000,
+      "image": "img/tom_hiddleston.jpg"
+  },{
+      "id": 7,
+      "full_name": "Ashley Judd",
+      "age": 47,
+      "gender": "female",
+      "net_worth": 22000000,
+      "image": "img/ashley_judd.jpg"
+  },{
+      "id": 8,
+      "full_name": "Larry David",
+      "age": 68,
+      "gender": "male",
+      "net_worth": 400000000,
+      "image": "img/larry_david.jpg"
+  },{
+      "id": 9,
+      "full_name": "Jessica Alba",
+      "age": 34,
+      "gender": "female",
+      "net_worth": 350000000,
+      "image": "img/jessica_alba.jpg"
+  },{
+      "id": 10,
+      "full_name": "Ray Romano",
+      "age": 57,
+      "gender": "male",
+      "net_worth": 130000000,
+      "image": "img/ray_romano.jpg"
+  },{
+      "id": 11,
+      "full_name": "William Shatner",
+      "age": 84,
+      "gender": "male",
+      "net_worth": 100000000,
+      "image": "img/william_shatner.jpg"
+  },{
+      "id": 12,
+      "full_name": "Sylvester Stallone",
+      "age": 69,
+      "gender": "male",
+      "net_worth": 400000000,
+      "image": "img/sylvester_stallone.jpg"
+  },{
+      "id": 14,
+      "full_name": "Marshall Bruce Mathers III (Eminem)",
+      "age": 43,
+      "gender": "male",
+      "net_worth": 190000000,
+      "image": "img/eminem.jpg"
+  },{
+      "id": 15,
+      "full_name": "Stephen Hawking",
+      "age": 73,
+      "gender": "male",
+      "net_worth": 20000000,
+      "image": "img/stephen_hawking.jpg"
+  },{
+      "id": 13,
+      "full_name": "Teri Hatcher",
+      "age": 50,
+      "gender": "female",
+      "net_worth": 50000000,
+      "image": "img/teri_hatcher.jpg"
+  }]
